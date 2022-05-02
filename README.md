@@ -27,3 +27,4 @@ Please do not pick animals that are too similar to each other, try not to choose
 
 - **Squirrel**: Luca
 - **write your own here**: and your name..
+- **Tiger**: Mariana
