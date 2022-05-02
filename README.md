@@ -29,3 +29,4 @@ Please do not pick animals that are too similar to each other, try not to choose
 - **write your own here**: and your name..
 - **Tiger**: Mariana
 - **Fox**: Julien
+- **Sloth**: Chris
