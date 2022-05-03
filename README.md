@@ -18,6 +18,12 @@ Images should:
 - show the animal they belong to. Only one type of animal should be present in the image (at least for this project), more than one of the same type of animal is accepted.
 - be different, so the network can recognize the animal, avoid having all images that look the same.
 
+#### Batch download
+To download many images fast, we can scrape the web or use some APIs (here the API documentation for [pixabay](https://pixabay.com/api/docs/), [pexels](https://www.pexels.com/api/documentation/) and [unsplash](https://unsplash.com/documentation). 
+You can of course write your own code to do it, or you can use some awesome resources, such as:
+- this python notebook (link or code coming soon) from [julien](https://github.com/juliencarbonnell)
+- this [pixabay scraper](https://github.com/perperam/pixabay_scraper) from [Robin](https://github.com/perperam)
+
 #### Storage
 For the moment just create a folder on your computer, from next week we discuss how to gather all of the images together.
 
@@ -26,11 +32,11 @@ Each participant should write here below the animals of which they are responsib
 Please do not pick animals that are too similar to each other, try not to choose different breeds of the same animal, bur rather different animals.
 
 - **write your own here**: and your name...
-- **Squirrel**: Luca
-- **Tiger**: Mariana
-- **Fox**: Julien
-- **Sloth**: Chris
-- **Bunny**: Sonja
-- **Pug**: Sabrina
-- **Bird**: Robin
-- **Frog**: Jan
+- 🦫 **Squirrel**: Luca
+- 🐅 **Tiger**: Mariana
+- 🦊 **Fox**: Julien
+- 🦥 **Sloth**: Chris
+- 🐇 **Bunny**: Sonja
+- 🐕 **Pug**: Sabrina
+- 🐦 **Bird**: Robin
+- 🐸 **Frog**: Jan
