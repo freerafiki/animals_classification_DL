@@ -25,9 +25,10 @@ For the moment just create a folder on your computer, from next week we discuss 
 Each participant should write here below the animals of which they are responsible for.
 Please do not pick animals that are too similar to each other, try not to choose different breeds of the same animal, bur rather different animals.
 
-- **Squirrel**: Luca
 - **write your own here**: and your name..
+- **Squirrel**: Luca
 - **Tiger**: Mariana
 - **Fox**: Julien
 - **Sloth**: Chris
+- **Bunny**: Sonja
 - **Pug**: Sabrina
