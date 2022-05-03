@@ -33,3 +33,4 @@ Please do not pick animals that are too similar to each other, try not to choose
 - **Bunny**: Sonja
 - **Pug**: Sabrina
 - **Bird**: Robin
+- **Frog**: Jan
