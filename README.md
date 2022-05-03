@@ -30,3 +30,4 @@ Please do not pick animals that are too similar to each other, try not to choose
 - **Tiger**: Mariana
 - **Fox**: Julien
 - **Sloth**: Chris
+- **Pug**: Sabrina
