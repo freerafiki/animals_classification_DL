@@ -21,7 +21,7 @@ Images should:
 #### Batch download
 To download many images fast, we can scrape the web or use some APIs (here the API documentation for [pixabay](https://pixabay.com/api/docs/), [pexels](https://www.pexels.com/api/documentation/) and [unsplash](https://unsplash.com/documentation). 
 You can of course write your own code to do it, or you can use some awesome resources, such as:
-- this python notebook (link or code coming soon) from [julien](https://github.com/juliencarbonnell)
+- this [Google Images scraper](https://github.com/DemocracyStudio/googleimages_scraper) from [julien](https://github.com/juliencarbonnell)
 - this [pixabay scraper](https://github.com/perperam/pixabay_scraper) from [Robin](https://github.com/perperam)
 
 #### Storage
