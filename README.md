@@ -42,11 +42,11 @@ Please do not pick animals that are too similar to each other, try not to choose
 - 🐸 **Frog**: Jan
 - 🎐 **jellyfish**: Antje
 - 🦈 **Shark** Luca B.
-- **seal**: Christian
-- **Axolotl**: Vladislav
+- 🦭 **seal**: Christian
+- ◻️ **Axolotl**: Vladislav
 - 🐑 **Sheep**: Maik
 - 🐢 **Turtle**: Steven
-- **Lion**: Emmanuel
+- 🦁 **Lion**: Emmanuel
 
 ## Contributors
 <a href="https://github.com/freerafiki/animals_classification_DL/graphs/contributors">
