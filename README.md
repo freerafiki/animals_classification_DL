@@ -43,4 +43,5 @@ Please do not pick animals that are too similar to each other, try not to choose
 - 🎐 **jellyfish**: Antje
 - 🦈 **Shark** Luca B.
 - **seal**: Christian
+- **Axolotl**: Vladislav
 - something
