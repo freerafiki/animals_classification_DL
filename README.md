@@ -42,4 +42,5 @@ Please do not pick animals that are too similar to each other, try not to choose
 - 🐸 **Frog**: Jan
 - 🎐 **jellyfish**: Antje
 - **seal**: Christian
+- **Axolotl**: Vladislav
 - something
