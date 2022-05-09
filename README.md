@@ -45,4 +45,4 @@ Please do not pick animals that are too similar to each other, try not to choose
 - **seal**: Christian
 - **Axolotl**: Vladislav
 - 🐑 **Sheep**: Maik
-- something
+- 🐢 **Turtle**: Steven
