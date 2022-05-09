@@ -44,4 +44,5 @@ Please do not pick animals that are too similar to each other, try not to choose
 - 🦈 **Shark** Luca B.
 - **seal**: Christian
 - **Axolotl**: Vladislav
+- 🐑 **Sheep**: Maik
 - something
