@@ -47,7 +47,7 @@ Please do not pick animals that are too similar to each other, try not to choose
 - 🐑 **Sheep**: Maik
 - 🐢 **Turtle**: Steven
 - 🦁 **Lion**: Emmanuel
-- :penguin: **Penguin**: Jonas
+- :bear: **Bear**: Jonas
 
 ## Contributors
 <a href="https://github.com/freerafiki/animals_classification_DL/graphs/contributors">
