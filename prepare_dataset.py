@@ -1,5 +1,6 @@
 import os, pdb, random, shutil
 import numpy as np
+# change these with your folders
 folder = '/home/palma/opencampus/animals_classification_DL/dataset'
 training_folder = '/home/palma/opencampus/animals_classification_DL/dataset_pt/train'
 test_folder = '/home/palma/opencampus/animals_classification_DL/dataset_pt/test'
