@@ -30,7 +30,6 @@ def load_random_animals(dataset_folder, max_classes=2, img_size=(64,64), train_t
             # read and append training images
             for training_image_name in training_images_names:
                 img = cv2.imread(os.path.join(dataset_folder, category, training_image_name))
-                print(training_image_name)
                 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
                 data_img = cv2.resize(img, img_size)
                 train_set_x_orig.append((data_img))
@@ -39,7 +38,6 @@ def load_random_animals(dataset_folder, max_classes=2, img_size=(64,64), train_t
             # read and append test images
             for test_image_name in test_images_names:
                 img = cv2.imread(os.path.join(dataset_folder, category, test_image_name))
-                print(test_image_name)
                 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
                 data_img = cv2.resize(img, img_size)
                 test_set_x_orig.append((data_img))
