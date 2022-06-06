@@ -17,7 +17,7 @@ What model can get the maximum accuracy on the test set?
 
 Fixed parameters:
 - `train_test_split=0.85`,
-- `image_resolution=(256,256)`
+- `image_resolution: from (64,64) to (256,256)`
 - `animals_classes>=15`
 
 ### Image resolution
@@ -32,5 +32,5 @@ What is the minimum number of (trainable) parameters you need to achieve `test_a
 
 Fixed parameters:
 - `train_test_split=0.85`,
-- `image_resolution=(128,128)`
+- `image_resolution: from (64,64) to (256,256)`
 - `animals_classes>=15`
