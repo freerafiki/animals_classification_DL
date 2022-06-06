@@ -18,7 +18,7 @@ img_width = 32
 img_height = 32
 train_x_orig, train_y, test_x_orig, test_y, classes = load_random_animals(
     dataset_folder = '/home/palma/opencampus/animals_classification_DL/dataset',
-    max_classes=5,
+    max_classes=4,
     img_size=(img_width, img_height),
     train_test_split=0.9)
 
@@ -57,7 +57,7 @@ model = Sequential([
     layers.Dropout(0.5),
     layers.Dense(8, activation='relu'),
     layers.Dropout(0.5),
-    layers.Dense(5, activation ='sigmoid')
+    layers.Dense(4, activation ='sigmoid')
 ])
 
 # print out the model
@@ -130,16 +130,24 @@ predictions = model.predict(test_x_orig)
 
 def show_errors(test_x_orig, test_y, predictions):
     images = 24
-    plt.figure(figsize=(32, 10))
+    fig = plt.figure(figsize=(32, 10))
     counter = 1
     for i, (prediction, gt) in enumerate(zip(predictions, test_y)):
         #print(prediction.shape, gt.shape)
         if counter <= images:
             if np.abs(np.argmax(prediction) - np.argmax(gt)) > 0.1:
-                plt.title(f'image of {classes[np.argmax(gt)]}')
-                plt.subplot(counter // 6 + 1, 6, counter % 6 + 1)
+                plt.subplot(4, 6, counter)
+                plt.title(f'{i}: {classes[np.argmax(gt)]} classified as {classes[np.argmax(prediction)]}')
                 plt.imshow(test_x_orig[i])
                 counter+=1
+    fig.tight_layout()
     plt.show()
 
 show_errors(test_x_orig, test_y, predictions)
+"""
+Save the model
+
+Check out https://www.tensorflow.org/tutorials/keras/save_and_load
+for more info about how to save and load
+"""
+model.save('models/ff_tf_32_5cl')
