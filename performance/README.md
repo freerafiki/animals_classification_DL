@@ -7,7 +7,7 @@ Here we report the performances of the different models
 | ff_tf_32 (Tf) | MLP | 12 | 28.9% | 32.88% | 32x32 | 197956 | 1500 |
 | ff_tf_32_5cl (Tf) | MLP | 4 | 60.48% | 58.92% | 32x32 | 197884 | 500 |
 | pt_ff_basic (Pt) | MLP | 15 | 14.18% | 12.46% | 32x32 | 404175 | 5 |
-| cnn_tf_v1 (Tf) | CNN | 15 | 47.18% | 36.92% | 64x64 | 704841 | 45 |
+| cnn_tf_v1 (Tf) | CNN | 15 | 47.18% | 36.92% | 64x64 | 704841 | 55 |
 
 ##### Abbreviations
 
