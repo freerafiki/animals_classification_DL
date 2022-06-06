@@ -50,6 +50,7 @@ Please do not pick animals that are too similar to each other, try not to choose
 - :bear: **Bear**: Jonas
 - 🦖 **Theropod**: Isabell 
 - **Ape**: Lennert
+- ...
 
 ## Contributors
 <a href="https://github.com/freerafiki/animals_classification_DL/graphs/contributors">
